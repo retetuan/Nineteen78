@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083695419688",
+    "project_id": "nineteen-78",
+    "storage_bucket": "nineteen-78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083695419688:android:1189aea55b53de5907801d",
+        "android_client_info": {
+          "package_name": "com.example.nineteen78"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBlDH3foJSjP9O9bnheT531uHi7dw6q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
